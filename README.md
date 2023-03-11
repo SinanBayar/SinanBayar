@@ -35,7 +35,7 @@ Ex Engineer. Actively studying about Front-End Developer skills. Totally focused
   <br>
 
 ### :fire: My Stats :
-![GitHub Streak](https://streak-stats.demolab.com?user=SinanBayar&theme=icegray&date_format=j%20M%5B%20Y%5D) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinanBayar)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=SinanBayar&theme=icegray&date_format=j%20M%5B%20Y%5D) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinanBayar) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinanBayar&layout=compact)
 
