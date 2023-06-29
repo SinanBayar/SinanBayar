@@ -22,17 +22,6 @@ Ex Engineer. Actively studying about Front-End Developer skills. Totally focused
 </div>
 <br>
 
-### 🔗 Social :
-
-<div>
-  <a href="https://github.com/SinanBayar">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sinanbayar/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/>
-  </a>
-  </div>
-  <br>
 
 ### :fire: My Stats :
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=SinanBayar&theme=icegray&date_format=j%20M%5B%20Y%5D) 
